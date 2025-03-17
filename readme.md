@@ -1,6 +1,8 @@
-# Deployment Guide for Personal Website
+# Personal Website
 
-A modern, responsive personal website with CV and blog functionality. This application allows you to showcase your professional experience and share blog posts with your audience.
+I build a modern, responsive personal website with CV and blog functionality from scratch. This application allows you to showcase your professional experience and share blog posts with your audience.
+
+My personal website can be found [here](https://maxleizhao.online).
 
 ## Features
 - CV Management: Create, edit, and organize your CV entries by category
